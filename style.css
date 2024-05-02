@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.cabeçalho {
+    background-color: rgb(10, 85, 32);
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.cabeçalho-imagem {
+    width: 20%;;
+}
+
+.cabeçalho-lista-item {
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 24px ;
+}
+
+.escola { 
+    background-color: rgb(106, 196, 94);
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+
+}
+
+.escola-div-conteudo {
+    width: 35%;
+}
+
+.escola-título {
+    padding: 24px 0;
+}
+
+body {
+    font-family: 'Poppins', sans-serif ;
+}
+
+.escola-imagem {
+    size: 3rem;
+}
