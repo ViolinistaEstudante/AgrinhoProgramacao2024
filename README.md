@@ -36,9 +36,9 @@ Em breve...
 --
 
 # *🗿 Redes Sociais*
-- (Github)[https://github.com/ViolinistaEstudante] <br></br>
-- (Discord)[https://discord.gg/BrendowViolinOFC#2349] <br></br>
-- (Gmmail para contato)[brendow.ribeiro@escola.pr.gov.br] <br></br>
+- [Github](https://github.com/ViolinistaEstudante) <br></br>
+- [Discord](https://discord.gg/BrendowViolinOFC#2349) <br></br>
+- [Gmail para contato](brendow.ribeiro@escola.pr.gov.br) <br></br>
 
 
 
