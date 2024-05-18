@@ -26,7 +26,7 @@ Na primeira olhada do código, eu achava impossível digitar um código sozinho,
 <ul>
   <li> [✅] Criar meu repositório</li>
   <li> [✅] Atualizar meu read me</li>
-  <li> [❌] Criar o projeto</li>
+  <li> [🟨] Criar o projeto</li>
   <li> [❌] Anexar e postar no github</li>
 </ul>
 
