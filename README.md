@@ -1,3 +1,6 @@
+<div align="center">
+<img widht="500" height="300" src="https://github.com/ViolinistaEstudante/projeto_agrinho_matematica2/assets/132099734/a02d012d-686a-4fea-96f0-cab8729ac40e" alt="Banner agrinho 2024"></div>
+
 # *📰 Projeto Agrinho 2024 - Agrinho: do campo à cidade, colhendo oportunidades*
 
 Olá, seja bem vindo (a) ao meu repositório!! Meu nome é Brendow Rodrigues, mais conhecido como @OViolinista ou @ViolinistaEstudante;
@@ -27,15 +30,10 @@ Na primeira olhada do código, eu achava impossível digitar um código sozinho,
   <li> [❌] Anexar e postar no github</li>
 </ul>
 
-# *📷Imagens*
-Em breve...
---
-Em breve...
---
-Em breve...
---
+# *✍ Passo-a-passo*
+**🔒  Ainda não liberado**
 
-# *🗿 Redes Sociais*
+# *📞 Contato*
 - [Github](https://github.com/ViolinistaEstudante) <br></br>
 - [Discord](https://discord.gg/BrendowViolinOFC#2349) <br></br>
 - [Gmail para contato](brendow.ribeiro@escola.pr.gov.br) <br></br>
