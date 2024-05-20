@@ -15,7 +15,7 @@ Como já escrito, o site vai funcionar como uma fonte de informação.
 O tema sugere que o programa Agrinho visa levar o conhecimento do campo para a cidade, mostrando as oportunidades que podem ser colhidas a partir desse aprendizado. Isso significa que o programa busca não apenas educar os estudantes sobre a importância da agricultura e do meio ambiente, mas também demonstrar como esses conhecimentos podem gerar oportunidades para as comunidades urbanas.
 
 # *💯O que eu espero deste concurso?*
-Bom, mesmo se eu chegar em uma etapa e não passar... Sei que me dediquei ao máximo, sempre pedindo ajuda a meus professores. Se Deus quiser, eu consiga passar as etapas e se possível conseguir o prêmio que eu desejaria muito (**chromebook**), e também ter o meu reconhecimento a partir desde site e muitos outros no meu perfil do github...
+Bom, mesmo se eu chegar em uma etapa e não passar... Sei que me dediquei ao máximo, sempre pedindo ajuda a meus professores. Se Deus quiser, eu consiga passar as etapas e se possível conseguir o prêmio que eu desejo muito (**chromebook**), e também ter o meu reconhecimento a partir desde site e muitos outros no meu perfil do github...
 
 # *📔Experiências*
 Meu primeiro contato com este tipo de tecnologia, foi com meu professor de Pensamento Computacional, na 9ª série. E ao correr do tempo, começei a me interessar mais na área de tecnologia e informação, criando sites, logos, aplicativos, tudo isso para ajudar minha família.
