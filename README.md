@@ -33,6 +33,9 @@ Na primeira olhada do código, eu achava impossível digitar um código sozinho,
 
 # *📞 Contato*
 - [Github](https://github.com/ViolinistaEstudante) <br></br>
+- [Facebook](https://www.facebook.com/profile.php?id=100073305696055) <br></br>
+- [Instagram](https://www.instagram.com/o_r0drigu3s_/) <br></br>
+- [LinkedIn](https://www.linkedin.com/in/brendow-eduardo-rodrigues-ribeiro-360b172a6/) <br></br>
 - [Discord](https://discord.gg/BrendowViolinOFC#2349) <br></br>
 - [Gmail para contato](brendow.ribeiro@escola.pr.gov.br) <br></br>
 
