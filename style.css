@@ -1,49 +1,338 @@
-*{
+* {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: rgb(10, 85, 32);
+}
+
+.page-container {
+    max-width: 1500px;
+    margin: auto;
+}
 
 .cabeçalho {
     background-color: rgb(10, 85, 32);
     color: white;
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
+    padding: 16px 40px;
 }
 
 .cabeçalho-imagem {
-    width: 20%;;
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 50%;
 }
 
-.cabeçalho-lista-item {
-    display: inline-block;
+.cabeçalho-lista {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    list-style: none;
+    gap: 15px;
+    justify-content: flex-end;
+}
+
+.cabeçalho-lista li {
     margin: 0 16px;
-    font-size: 24px ;
+    font-size: 24px;
+    border: 3px solid rgb(64, 173, 21);
+    padding: 2px;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    font: 500 20px helvetica, arial, sans-serif;
+    padding: 8px 40px;
+    transition: all .2s ease-out;
 }
 
-.escola { 
+.cabeçalho-lista li:hover {
+    transform: scale(1.1);
+}
+
+.cabeçalho-lista a{
+    color: white !important;
+    text-decoration: none;
+}
+
+.escola {
     background-color: rgb(106, 196, 94);
     color: black;
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 24px 0;
+    padding: 30px 40px;
+    column-gap: 60px;
+}
 
+.escola h2 {
+    color: white;
+    font: 600 40px helvetica, sans-serif;
+    position: relative;
+    padding-bottom: 10px;
+}
+
+.escola h2:before {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 70%;
+    height: 4px;
+    background-color: rgb(10, 85, 32);
+}
+
+.escola p {
+    font: 400 17px helvetica, sans-serif;
+    color: white;
+    line-height: 150%;
 }
 
 .escola-div-conteudo {
-    width: 35%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    row-gap: 10px;
 }
 
 .escola-título {
     padding: 24px 0;
-}
-
-body {
-    font-family: 'Poppins', sans-serif ;
+    font-size: 2rem;
 }
 
 .escola-imagem {
-    size: 3rem;
+    width: 550px;
+}
+
+.cartilhas {
+    padding: 16px 40px;
+    background-color: rgb(10, 85, 32);
+}
+
+.cartilhas-conteudo {
+    display: flex;
+    flex-direction: column;
+    row-gap: 30px;
+    padding: 40px 0px;
+    justify-content: center;
+    align-items: center;
+}
+
+.cartilhas-conteudo h2 {
+    color: white;
+    font: 600 30px helvetica, sans-serif;
+}
+
+.cartilhas-conteudo ul {
+    display: flex;
+    flex-direction: row;
+    column-gap: 20px;
+    list-style: none;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    column-gap: 50px;
+    row-gap: 20px;
+}
+
+.cartilhas-conteudo li {
+    border: 3px solid rgb(64, 173, 21);
+    padding: 2px;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    font: 500 18px helvetica, arial, sans-serif;
+    padding: 12px 40px;
+    transition: all .2s ease-out;
+}
+
+.cartilhas-conteudo li:hover {
+    transform: scale(1.1);
+}
+
+.cartilhas-conteudo ul a {
+    text-decoration: none;
+    color: white;
+}
+
+.agrinhoplus {
+    padding: 40px 40px 0px 40px;
+    display: flex;
+    background-color: rgb(106, 196, 94);
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    row-gap: 10px;
+}
+
+.agrinhoplus h2 {
+    color: white;
+    font: 600 30px helvetica, sans-serif;
+}
+
+.agrinhoplus h3 {
+    color: white;
+    font: 400 17px helvetica, sans-serif;
+    text-align: center;
+}
+
+.cards {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 30px 40px 40px 40px;
+    gap: 20px;
+    background-color: rgb(106, 196, 94);
+}
+
+.card {
+    background-color: #fff;
+    width: 210px;
+    height: 310px;
+    overflow: hidden;
+    border-radius: 12px;
+    box-shadow: 0px 4px 12px rgb(0, 0, 0, 0.3);
+}
+
+.imagem_cards {
+    width: 100%;
+    height: 130px;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    overflow: hidden;
+}
+
+.imagem_cards img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.div2_cards {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    row-gap: 10px;
+    height: 180px;
+    overflow: hidden;
+    box-sizing: border-box;
+    padding: 0px 10px;
+}
+
+.card h3 {
+    color: black;
+    font: 600 20px helvetica, arial, sans-serif;
+}
+
+.card p {
+    text-align: center;
+    font: 400 16px helvetica, arial, sans-serif;
+}
+
+.card a {
+    text-decoration: none;
+    font: 600 15px helvetica, arial, sans-serif;
+    background-color: rgb(10, 85, 32);
+    color: white;
+    width: 100%;
+    height: 40px;
+    border-radius: 7px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all .2s ease-out;
+    margin-top: 10px;
+}
+
+.card a:hover {
+    transform: scale(1.05);
+}
+
+footer{
+    background-color:rgb(10, 85, 32);
+}
+.footerContainer{
+    width: 100%;
+    padding: 15px;
+}
+.socialIcons{
+    display: flex;
+    justify-content: center;
+}
+.socialIcons a{
+    text-decoration: none;
+    padding:  10px;
+    background-color: white;
+    margin: 10px;
+    border-radius: 10%;
+}
+.socialIcons a i{
+    font-size: 2em;
+    color: black;
+    opacity: 0,9;
+}
+/* Hover affect on social media icon */
+.socialIcons a:hover{
+    background-color:rgb(10, 85, 32);
+    transition: 0.5s;
+}
+.socialIcons a:hover i{
+    color: white;
+    transition: 0.5s;
+}
+
+.footerBottom{
+    background-color: rgb(10, 85, 32);;
+    text-align: center;
+}
+.footerBottom p{
+    color: white;
+}
+.designer{
+    opacity: 0.7;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-weight: 400;
+    margin: 0px 5px;
+}
+
+@media screen and (width <= 1200px) {
+    .escola {
+        flex-direction: column;
+        row-gap: 50px;
+    }
+
+    .escola .escola-imagem {
+        width: 100%;
+    }
+}
+
+@media screen and (width <= 800px) {
+    .cabeçalho, .cartilhas {
+        padding: 16px 20px;
+    }
+
+    .escola {
+        padding: 30px 20px;
+    }
+
+    .card {
+        width: 300px;
+    }
+
+    .agrinhoplus {
+        padding: 40px 20px 0px 20px;
+    }
+
+    .socialIcons a{
+        padding: 8px;
+        margin: 4px;
+    }
 }
