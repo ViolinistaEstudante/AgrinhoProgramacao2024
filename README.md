@@ -31,6 +31,13 @@ Na primeira olhada do código, eu achava impossível digitar um código sozinho,
   <li> [✅] Criar o Github Pages</li>
 </ul>
 
+# *✍ Passo-a-passo*
+- Foram usados várias tags como *div, li, img* além de muitas outras comuns entre dev's.
+<br></br>
+- A responsividade foi a minha maior dificuldade, mas com dias de estudos vendo o curso do [Alura](https://www.alura.com.br/) consegui finalizar.
+<br></br>
+- Além de fazer o site com imagens, cards e até mesmo footer personalizado, resolvi colocar nos botões **:hover**, para adicionar vida ao site!
+
 # *📞 Contato*
 - [Github](https://github.com/ViolinistaEstudante) <br></br>
 - [Facebook](https://www.facebook.com/profile.php?id=100073305696055) <br></br>
@@ -39,6 +46,16 @@ Na primeira olhada do código, eu achava impossível digitar um código sozinho,
 - [Discord](https://discord.gg/BrendowViolinOFC#2349) <br></br>
 - [Gmail para contato](brendow.ribeiro@escola.pr.gov.br) <br></br>
 
+---
+<div align="center">
+  <img height="70" widht="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img height="90" widht="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img height="50" widht="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+</div>
+
+<h2 align="center">
+  Pódio dos dev's
+</h2>
 
 
           
